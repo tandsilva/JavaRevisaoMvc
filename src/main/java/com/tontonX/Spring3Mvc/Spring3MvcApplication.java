@@ -8,6 +8,13 @@ public class Spring3MvcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Spring3MvcApplication.class, args);
+
+
+
+
+
+
+
 	}
 
 }
